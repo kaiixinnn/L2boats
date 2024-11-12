@@ -85,7 +85,7 @@ const AllBoats = () => {
                 <Boats
                     icon_name="ship"
                     title="FOUR WINNS HORIZON 180"
-                    description="A sporty look and refined details truly set the Horizon 180 above all others."
+                    description="A sporty look and refined details truly  set the Horizon 180 above all others."
                     poster={require('../img/four_winns.jpg')}
                 />
                 <Boats
